@@ -1,0 +1,1 @@
+npx concurrently "cd server && go build -o bin"
