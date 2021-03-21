@@ -1,0 +1,1 @@
+npx nodemon -e .go --exec "kill $(lsof -ti:8080); go run " .
